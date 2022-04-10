@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marion.horre@gmail.com
+	name = Marion Horre
